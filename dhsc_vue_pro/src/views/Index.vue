@@ -1,0 +1,22 @@
+<template>
+  <div>
+    <search></search>
+    <carousel></carousel>
+    <my-login></my-login>
+    <floor-one></floor-one>
+    <floor-two></floor-two>
+    <floor-three></floor-three>
+    <floor-foura></floor-foura>
+    <carousel-lista></carousel-lista>
+    <floor-fourb></floor-fourb>
+    <carousel-listb></carousel-listb>
+    <floor-fourc></floor-fourc>
+    <carousel-listc></carousel-listc>
+    <floor-fourd></floor-fourd>
+    <carousel-listd></carousel-listd>
+    <floor-foure></floor-foure>
+    <carousel-liste></carousel-liste>
+    <foot></foot>
+    <tabbar></tabbar>
+  </div>
+</template>
